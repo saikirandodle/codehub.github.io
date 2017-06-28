@@ -50,10 +50,11 @@ body {
 }
 
 footer {
-     width:100%;
-     padding: 50px;
-    height:80px;
-    position:absolute;
-    bottom:0;
-    left:0;
+    width: 100%;
+    padding: 50px;
+    left: 0;
+    clear: both;
+    bottom: 0;
+    height: 100px;
+    background: gray;
 }
