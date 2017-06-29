@@ -73,3 +73,23 @@ body {
 .mt{
     margin-top: 55px;
 }
+.imgcss{
+    height: 300px !important;
+    width: 100%;
+}
+.dp{
+    border-radius: 59px;
+    height: 119px;
+    width: 119px;
+    border: solid #b3aeae 4px;
+}
+.txtshad{
+    font-size: 60px;
+    text-shadow: 2px 1px 3px #317b8c;
+    font-family: 'Revalia', cursive;
+    color: #2db1bb;
+}
+.fsd{
+    color: #928f8f;
+    text-shadow: 3px 3px 7px #cecaca;
+}
